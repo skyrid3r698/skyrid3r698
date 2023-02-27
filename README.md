@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @skyrid3r698
+- I create powershell scripts to automate and simplify workflows
 
 <!---
 skyrid3r698/skyrid3r698 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
